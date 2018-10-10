@@ -1,0 +1,7 @@
+xmodel,viewmodel_m60
+fx,muzzleflashes/m60_flash_view
+fx,shellejects/saw_view
+fx,shellejects/saw
+xmodel,weapon_m60
+material,hud_icon_m60e4
+weapon,sp/m60e4

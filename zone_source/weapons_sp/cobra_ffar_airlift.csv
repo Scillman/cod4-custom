@@ -1,0 +1,5 @@
+fx,muzzleflashes/cobra_rocket_flash_wv
+xmodel,projectile_s8rocket
+fx,explosions/airlift_explosion_large
+fx,smoke/smoke_geotrail_rocket
+weapon,sp/cobra_ffar_airlift

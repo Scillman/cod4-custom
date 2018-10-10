@@ -1,0 +1,5 @@
+xmodel,viewmodel_usp_silencer
+fx,muzzleflashes/m4m203_silencer
+xmodel,weapon_usp_silencer
+material,hud_icon_usp_45
+weapon,sp/usp_silencer

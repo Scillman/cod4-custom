@@ -1,0 +1,8 @@
+xmodel,viewmodel_barrett
+fx,muzzleflashes/rifle_flash_view
+xmodel,weapon_m82
+xmodel,weapon_m82_clip
+material,hud_icon_barrett50cal
+material,scope_overlay_m40a3
+material,scope_overlay_m40a3_low_res
+weapon,sp/barrett

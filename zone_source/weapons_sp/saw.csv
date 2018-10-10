@@ -1,0 +1,7 @@
+xmodel,viewmodel_m249
+fx,shellejects/saw_view
+fx,shellejects/saw
+xmodel,weapon_saw
+xmodel,weapon_saw_clip
+material,hud_icon_m249saw
+weapon,sp/saw

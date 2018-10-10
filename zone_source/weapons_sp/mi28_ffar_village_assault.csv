@@ -1,0 +1,8 @@
+xmodel,viewmodel_rpg7
+fx,muzzleflashes/cobra_rocket_flash_wv
+material,reticle_flechette
+xmodel,weapon_rpg7
+xmodel,viewmodel_rpg7_rocket
+xmodel,projectile_rpg7
+fx,smoke/smoke_geotrail_rocket
+weapon,sp/mi28_ffar_village_assault

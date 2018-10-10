@@ -1,0 +1,9 @@
+xmodel,viewmodel_at4
+fx,muzzleflashes/at4_flash
+material,reticle_flechette
+xmodel,weapon_at4
+material,hud_icon_at4
+material,hud_icon_rpg
+xmodel,projectile_at4
+fx,smoke/smoke_geotrail_rpg
+weapon,sp/at4

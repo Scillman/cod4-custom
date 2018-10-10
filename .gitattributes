@@ -1,0 +1,15 @@
+# Set the default behavior
+* text=auto
+
+# Explicitly declare text files
+*.csv text eol=crlf
+
+# Binary data
+*.exe   binary
+*.dll   binary
+*.jpg   binary
+*.dds   binary
+*.tga   binary
+*.psd   binary
+*.ff    binary
+*.iwd   binary

@@ -1,0 +1,8 @@
+xmodel,viewmodel_m40a3
+fx,muzzleflashes/rifle_flash_view
+xmodel,weapon_m40a3
+material,hud_icon_m40a3
+material,hud_icon_sniperrifle
+material,scope_overlay_m40a3
+material,scope_overlay_m40a3_low_res
+weapon,sp/m40a3

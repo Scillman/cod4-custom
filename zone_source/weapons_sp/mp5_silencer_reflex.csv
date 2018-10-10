@@ -1,0 +1,6 @@
+xmodel,viewmodel_mp5_silencer_reflex
+fx,muzzleflashes/m4m203_silencer
+xmodel,weapon_mp5sd_reflex
+xmodel,weapon_mp5_clip
+material,hud_icon_mp5_silencer
+weapon,sp/mp5_silencer_reflex

@@ -1,0 +1,9 @@
+xmodel,weapon_at4
+fx,muzzleflashes/at4_flash
+material,hud_icon_stinger
+material,hud_icon_rpg
+xmodel,projectile_javelin_missile
+fx,impacts/dudimpact_javelin
+fx,smoke/smoke_geotrail_javelin
+fx,misc/javelin_ignition
+weapon,sp/stinger_speedy

@@ -1,0 +1,9 @@
+xmodel,viewmodel_ak47_grenadier
+fx,muzzleflashes/m203_flshview
+material,reticle_m203
+xmodel,weapon_ak47_grenadier
+material,hud_icon_40mm_grenade
+xmodel,projectile_m203grenade
+fx,impacts/dudimpact_m203
+fx,smoke/smoke_geotrail_m203
+weapon,sp/gp25

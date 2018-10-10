@@ -1,0 +1,9 @@
+xmodel,viewmodel_benelli_m4
+fx,muzzleflashes/shotgunflash_view
+fx,muzzleflashes/shotgunflash
+fx,shellejects/shotgun_view
+fx,shellejects/shotgun
+xmodel,weapon_benelli_super_90
+material,hud_icon_benelli_m4
+material,hud_icon_shotgun
+weapon,sp/m1014

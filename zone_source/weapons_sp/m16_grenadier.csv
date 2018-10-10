@@ -1,0 +1,6 @@
+xmodel,viewmodel_m16m203
+fx,muzzleflashes/mp16_flash_view
+xmodel,weapon_m16gr_sp
+xmodel,weapon_m16_clip
+material,hud_icon_m16a4_grenade
+weapon,sp/m16_grenadier

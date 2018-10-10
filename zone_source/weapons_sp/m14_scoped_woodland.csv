@@ -1,0 +1,9 @@
+xmodel,viewmodel_m14_woodland
+fx,muzzleflashes/rifle_flash_view
+xmodel,weapon_m14_woodland
+xmodel,weapon_m14_clip
+material,hud_icon_m14_scoped
+material,hud_icon_sniperrifle
+material,scope_overlay_m40a3
+material,scope_overlay_m40a3_low_res
+weapon,sp/m14_scoped_woodland

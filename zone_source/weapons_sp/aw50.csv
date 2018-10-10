@@ -1,0 +1,7 @@
+xmodel,viewmodel_dragunov
+fx,muzzleflashes/rifleflash
+xmodel,weapon_dragunov
+material,hud_icon_sniperrifle
+material,scope_overlay_m40a3
+material,scope_overlay_m40a3_low_res
+weapon,sp/aw50

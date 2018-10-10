@@ -1,0 +1,7 @@
+xmodel,viewmodel_m16
+fx,muzzleflashes/mp16_flash_view
+fx,muzzleflashes/m16_flash_wv
+xmodel,weapon_m16basic_sp
+xmodel,weapon_m16_clip
+material,hud_icon_m16a4
+weapon,sp/m16_basic

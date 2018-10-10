@@ -1,0 +1,9 @@
+xmodel,viewmodel_winchester1200
+fx,muzzleflashes/winch_flshview
+fx,muzzleflashes/winch_flash_wv
+fx,shellejects/shotgun_view
+fx,shellejects/shotgun
+xmodel,weapon_winchest1200
+material,hud_icon_winchester_1200
+material,hud_icon_shotgun
+weapon,sp/winchester1200

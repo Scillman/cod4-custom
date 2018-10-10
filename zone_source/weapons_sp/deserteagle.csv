@@ -1,0 +1,6 @@
+xmodel,viewmodel_desert_eagle
+fx,muzzleflashes/pistolflash_view
+fx,muzzleflashes/pistolflash
+xmodel,weapon_desert_eagle_silver
+material,hud_icon_desert_eagle
+weapon,sp/deserteagle

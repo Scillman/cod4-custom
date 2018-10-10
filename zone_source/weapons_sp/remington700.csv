@@ -1,0 +1,7 @@
+xmodel,viewmodel_remington700
+fx,muzzleflashes/rifleflash
+xmodel,weapon_remington700
+material,hud_icon_remington700
+material,scope_overlay_m40a3
+material,scope_overlay_m40a3_low_res
+weapon,sp/remington700

@@ -1,0 +1,5 @@
+fx,muzzleflashes/cobra_rocket_flash_wv
+material,death_helicopter
+xmodel,projectile_s8rocket
+fx,smoke/smoke_geotrail_rocket
+weapon,sp/hind_ffar
