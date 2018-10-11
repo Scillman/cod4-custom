@@ -5,7 +5,7 @@
 	{
 	}
 
-	pixelShader 2.0 "fakesky.hlsl"
+	pixelShader 2.0 "sky.hlsl"
 	{
 		skyMapSampler = material.colorMap;
 	}
