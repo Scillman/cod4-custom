@@ -1,0 +1,14 @@
+{
+	stateMap "fakesky";
+
+	vertexShader 1.1 "fakesky.hlsl"
+	{
+	}
+
+	pixelShader 2.0 "fakesky.hlsl"
+	{
+		skyMapSampler = material.colorMap;
+	}
+
+	vertex.position = code.position;
+}
