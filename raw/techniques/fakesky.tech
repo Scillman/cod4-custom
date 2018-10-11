@@ -1,5 +1,5 @@
 {
-	stateMap "fakesky";
+	stateMap "default";
 
 	vertexShader 1.1 "fakesky.hlsl"
 	{
